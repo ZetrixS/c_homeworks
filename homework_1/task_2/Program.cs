@@ -1,0 +1,17 @@
+﻿int first_number = 0;
+int second_number = 0;
+int third_number = 0;
+int max = first_number;
+Console.Write("Введите первое число:");
+string input_1 = Console.ReadLine();
+first_number = Convert.ToInt32(input_1);
+Console.Write("Введите второе число:");
+string input_2 = Console.ReadLine();
+second_number = Convert.ToInt32(input_2);
+Console.Write("Введите третье число:");
+string input_3 = Console.ReadLine();
+third_number = Convert.ToInt32(input_3);
+if (max < second_number) max = second_number;
+if (max < third_number) max = third_number;
+if (max < first_number) max = first_number;
+Console.Write("Максимальное из представленных чисел:" + max);
