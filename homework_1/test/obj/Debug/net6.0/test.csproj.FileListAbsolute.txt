@@ -1,0 +1,15 @@
+D:\education_enviroment\c_homeworks\homework_1\test\bin\Debug\net6.0\test.exe
+D:\education_enviroment\c_homeworks\homework_1\test\bin\Debug\net6.0\test.deps.json
+D:\education_enviroment\c_homeworks\homework_1\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\education_enviroment\c_homeworks\homework_1\test\bin\Debug\net6.0\test.dll
+D:\education_enviroment\c_homeworks\homework_1\test\bin\Debug\net6.0\test.pdb
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.dll
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\refint\test.dll
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.pdb
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\education_enviroment\c_homeworks\homework_1\test\obj\Debug\net6.0\ref\test.dll
