@@ -31,7 +31,11 @@ int massiveMax (int [] massives)
             { 
                 max = massive[i];
             }
-            i++;
+            else
+            {
+                i++;
+
+            }
         }
     
     return max;
@@ -50,7 +54,10 @@ int massiveMin (int [] massives)
             { 
                 min = massive[i];
             }
-            i++;
+            else 
+            {
+                i++;
+            }
         }
     
     return min;

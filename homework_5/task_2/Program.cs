@@ -28,7 +28,10 @@ while (i < input)
         count += massive[i];
         i++;
     }
-    i++;
+    else 
+    {
+        i++;
+    }
 }
 /// 2. Вывод результата
 Console.WriteLine();
