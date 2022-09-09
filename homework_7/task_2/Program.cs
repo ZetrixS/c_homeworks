@@ -50,4 +50,16 @@ Console.Write("Введите № в строке для поиска: ");
 int inp_1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите № в столбце для поиска: ");
 int inp_2 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Число: " + massive[inp_1-1,inp_2-1]);
+inp_1--;
+inp_2--;
+if ((inp_1 < massive.GetLength(0)) 
+    && (inp_1 != 0-1) 
+    && (inp_2 < massive.GetLength(1)) 
+    && (inp_2 != 0-1))
+    {
+    Console.Write("Число: " + massive[inp_1,inp_2]);
+    }
+else
+{
+    Console.Write("Нет такого числа");
+}
