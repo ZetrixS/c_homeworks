@@ -40,14 +40,8 @@ print_massive_two(third_array);
 
 
 //// Блок 3. Функции
-///.1 Функция ввода
-int read_int(string message)
-{
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
 
-///.2 Функция заполнения массива рандомными числами от 1 до 9
+///.1 Функция заполнения массива рандомными числами от 1 до 9
 void fill_massive(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -59,7 +53,7 @@ void fill_massive(int[,] array)
     }
 }
 
-///.3 Функция вывода двумерного массива в терминал 
+///.2 Функция вывода двумерного массива в терминал 
 void print_massive_two(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
