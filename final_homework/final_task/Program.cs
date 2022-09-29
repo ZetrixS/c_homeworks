@@ -2,6 +2,8 @@
 //// Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 //// При решение не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами
 
+
+//// Блок 1. Создание массива.
 string[] massive = new string[7] {"test", "hello", "ok", "test_2", "wooah", "1", "34"};
 string[] massive_2 = new string[massive.Length];
 void massive_fill(string[] massive_1, string[] massive_2)
